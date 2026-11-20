@@ -1,8 +1,3 @@
-1- what is a class?(what is a different between private and public)
-2- what is std::map
-3- define a user class
-4- define setter and getter for all of its function make sure definition is in .h and function in self in .cpp
-5- make add_user function and call it in main this function should take all info and return user object 
-6- make print_user_information function and call it in main after creating the user
+hi how are you 
 
- 
+ Why  the new project witch i should work on haven't been uploaded?
